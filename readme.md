@@ -22,3 +22,23 @@
 > ### **tdt.js:**
 - arquivo para calcular o valor original do produto com cupom de desconto e valor do frete atribuido ao produto.
 
+
+(alteração feita direta pelo github no proprio arquivo readme.md!!)
+
+# **Pasta de Condicionais feita na aula junto com o Professor Luis Ribeiro**
+
+> ### **atividade.js**
+- Atividade proposta pelo professor sendo ela as condicionais feitas.
+
+> ### **condicional-1.js:**
+- Condicionais - if (condição única).
+
+> ###  **condicional-2.js:**
+- Condicionais - if...else (condição verdadeira ou falsa).
+
+> ###  **condicional-3.js:**
+- Condicionais - if...elseif (múltiplas condições).
+
+> ###  **condicional-4.js:**
+- Condicionais - switch (múltiplas condições com base em um valor).
+- Break: Interrompe o comando. (usado na condicional 4).
