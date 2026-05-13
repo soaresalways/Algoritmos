@@ -26,10 +26,9 @@
 - Arquivo para calcular o valor original do produto com cupom de desconto e valor do frete atribuido ao produto.
 
 
-<<<<<<< HEAD
+
+
 (alteração feita direta pelo github no proprio arquivo readme.md!!)
-=======
->>>>>>> a600d464bbdb30859722a5fedb6a010d42a78409
 
 # **Pasta de Condicionais feita na aula junto com o Professor Luis Ribeiro**
 
