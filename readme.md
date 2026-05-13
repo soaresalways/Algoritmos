@@ -48,6 +48,4 @@
 - Condicionais - switch (múltiplas condições com base em um valor).
 <<<<<<< HEAD
 - Break: Interrompe o comando. (usado na condicional 4).
-=======
-- Break: Interrompe o comando. (usado na condicional 4).
->>>>>>> a600d464bbdb30859722a5fedb6a010d42a78409
+
