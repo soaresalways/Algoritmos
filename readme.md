@@ -19,6 +19,9 @@
 > ### **objeto-1.js:**
 - Arquivo que automaticamente escreve no console os valores atribuidos nas variaveis "const".
 
+> ### **objeto-1.js:**
+- Arquivo onde o usuário digita um número e o console informa se o número é "par" ou "impar".
+
 > ### **tdt.js:**
 - Arquivo para calcular o valor original do produto com cupom de desconto e valor do frete atribuido ao produto.
 
