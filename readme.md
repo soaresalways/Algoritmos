@@ -19,7 +19,7 @@
 > ### **objeto-1.js:**
 - Arquivo que automaticamente escreve no console os valores atribuidos nas variaveis "const".
 
-> ### **parimpar:**
+> ### **parimpar.js:**
 - Arquivo onde o usuário digita um número e o console informa se o número é "par" ou "impar".
 
 > ### **tdt.js:**
